@@ -1,3 +1,3 @@
 export default function Blue() {
-  return <p>Blue</p>;
+  return <article className="blue">Blue</article>;
 }
