@@ -1,1 +1,3 @@
-export default function Blue() {}
+export default function Blue() {
+  return <p>Blue</p>;
+}

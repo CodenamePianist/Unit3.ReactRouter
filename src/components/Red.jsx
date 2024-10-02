@@ -1,1 +1,3 @@
-export default function Red() {}
+export default function Red() {
+  return <p>Red</p>;
+}
